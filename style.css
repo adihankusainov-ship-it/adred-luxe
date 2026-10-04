@@ -15,7 +15,6 @@
   --gold: #ffb800;
   --neon: #00ff88;
   --shadow: 0 40px 80px rgba(0, 0, 0, 0.8);
-  --glow: 0 0 20px rgba(255, 184, 0, 0.25);
 }
 
 html {
@@ -493,6 +492,12 @@ input {
   opacity: 1;
 }
 
+.product-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .product-image,
 .artist-image {
   height: 380px;
@@ -937,3 +942,105 @@ input {
     width: 100%;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
